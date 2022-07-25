@@ -1,2 +1,3 @@
-# final_data
-The state of the data at the end of the project in 2021.
+# NAMPI Project final data export
+
+The N-Quads file in this repository is the state of the NAMPI RDF database at the end of the formal project runtime at the end of 2022. For further information about the project please consult the [project website](https://purl.org/nampi).
